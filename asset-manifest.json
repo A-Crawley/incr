@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/incr/static/css/main.31d6cfe0.css",
+    "main.js": "/incr/static/js/main.e8536a9c.js",
+    "index.html": "/incr/index.html",
+    "main.e8536a9c.js.map": "/incr/static/js/main.e8536a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e8536a9c.js"
+  ]
+}
